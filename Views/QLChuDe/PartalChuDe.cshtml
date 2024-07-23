@@ -1,0 +1,22 @@
+﻿@using BookShop_Online.Models
+@model List<ChuDe>
+
+<div class="card list-group" style="margin-bottom: 20px; margin-top:20px">
+    <div class="card-heard">CHỦ ĐỀ SÁCH</div>
+    <div class="card-body">
+        <div>
+            @foreach (var item in Model)
+            {
+                <div class="list-group-item">
+                    @*<a href="~/QLSach/GetBooksByTopic/@item.MaChuDe">
+                        @item.TenChuDe    
+                    </a>*@
+
+                    <a href="@Url.Action("GetBooksByTopic","QLSach",new {maCD = item.MaChuDe})">
+                        @item.TenChuDe
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>

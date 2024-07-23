@@ -1,0 +1,40 @@
+﻿@model IEnumerable<BookShop_Online.Areas.Admin.Data.ChuDeVM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>QUẢN LÝ CHỦ ĐỀ</h2>
+
+<p>
+    @Html.ActionLink("Tạo thêm", "AddChuDe","QLChuDeAdmin")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaCD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TenCD)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaCD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenCD)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "EditChuDe","QLChuDeAdmin", new { id=item.MaCD }, null) |
+            @Html.ActionLink("Chi tiết", "DeTaiChuDe", new { id=item.MaCD }, null) |
+            @Html.ActionLink("Xóa", "DeleteChuDe", new { id=item.MaCD},null)
+        </td>
+    </tr>
+}
+
+</table>

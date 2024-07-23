@@ -1,0 +1,46 @@
+﻿@model BookShop_Online.Areas.Admin.Data.ChuDeVM
+
+@{
+    ViewBag.Title = "DeleteChuDe";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>XÓA CHỦ ĐỀ</h2>
+
+<h3>Bạn có chắc muốn xóa chủ đề này không?</h3>
+<div>
+    <h4>ChuDeVM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MaCD)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaCD)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TenCD)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenCD)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("DeleteChuDe","QLChuDeAdmin", FormMethod.Post)) {
+        @Html.AntiForgeryToken()
+
+        <div style="display:none; ">
+            <!--Lấy giá trị-->
+            @Html.DisplayFor(model => model.MaCD)
+        </div>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Trở vể trang chủ", "Index")
+        </div>
+    }
+</div>

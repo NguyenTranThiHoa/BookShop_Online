@@ -1,0 +1,26 @@
+﻿@using BookShop_Online.Models
+@model List<Sach>
+@{
+    ViewBag.Title = "GetBooksByTopic";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>DANH MỤC SÁCH THEO CHỦ ĐỀ</h2>
+<h3 style="color: #4839a5">Tổng sách hiện có là: <strong>@ViewBag.soluong</strong></h3>
+<div>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <div style="width: 250px; float: left; border: 1px solid gray; height:300px; margin: 17px 6px 3px 17px;">
+                <div style="height: 65%">
+                    <img src="~/Images/Image_Books/@item.AnhBia" height="180" style="margin-top: 5px">
+                </div>
+                <div style="height: 25%; color: #237241; text-align:center">Tên sách: @item.TenSach</div>
+                <div style="height: 10%; border: 1px solid gray; color: #275dc1">
+                Giá bán: <strong style="color: #9c2a2a">@Html.FormatValue(item.GiaBan, "{0:#,###}") VNĐ </strong></div>
+            </div> 
+        }
+    }
+</div>
+
