@@ -1,0 +1,26 @@
+﻿@using BookShop_Online.ViewModel
+@model SachViewModel
+@{
+    ViewBag.Title = "DetailBook";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2 style="color: #04877f">THÔNG TIN CHI TIẾT SÁCH</h2>
+<div class="row">
+    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
+        <div>
+            <img src="@Url.Content("~/Images/Image_Books/" +Model.AnhBia)"/>
+        </div>
+    </div>
+
+    <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12">
+        <div>Tên sách: @Model.TenSach</div>
+        <div>Số lượng còn: @Model.SoLuongCon</div>
+        <div>Ngày cập nhật: @Model.NgayNhap</div>
+        <div>Chủ đề: @Model.TenCD</div>
+        <div>Nhà xuất bản: @Model.TenNXB</div>
+        <div>Mô tả: @Model.MoTa</div>
+        <div>Giá bán: @Model.GiaBan</div>
+    </div>
+</div>
+
