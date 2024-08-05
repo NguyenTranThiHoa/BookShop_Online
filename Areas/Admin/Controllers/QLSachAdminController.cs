@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Web;
 using System.Web.Mvc;
 
@@ -59,7 +60,7 @@ namespace BookShop_Online.Areas.Admin.Controllers
             itemNew.MaChuDe = formData.MaChuDe;
             itemNew.MaNXB = formData.MaNXB;
             itemNew.SoLuongTon = formData.SoLuongTon;
-            //itemNew.NgayCapNhat = DateTime.Now;
+            itemNew.NgayCapNhat = DateTime.Now;
             itemNew.Moi = 1;
             //itemNew.AnhBia = "";
 
@@ -105,25 +106,30 @@ namespace BookShop_Online.Areas.Admin.Controllers
         [HttpGet]
         public ActionResult DeleteBook(int id)
         {
+            var item = _context.Saches.Where(x => x.MaSach == id).Select(x => new SachVM()
+            {
+                MaSach = x.MaSach,
+                TenSach = x.TenSach,
+                GiaBan = x.GiaBan,
+                MoTa = x.MoTa,
+                SoLuongTon = x.SoLuongTon,
+                NgayCapNhat = x.NgayCapNhat,
+                AnhBia = x.AnhBia,
+                MaChuDe = x.MaChuDe,
+                MaNXB = x.MaNXB,
+                Moi = x.Moi
+            }).FirstOrDefault();
+            return View(item);
+        }
+
+        [HttpPost, ActionName("DeleteBook")]
+        public ActionResult DeleteBook_1(int id)
+        {
             var item = _context.Saches.Where(x => x.MaSach == id).FirstOrDefault();
             if (item == null)
             {
                 return RedirectToAction("Index", "QLSachAdmin");
             }
-
-            return View(item);
-        }
-
-        [HttpPost]
-        public ActionResult DeleteBook_1(SachVM formData)
-        {
-            var item = _context.Saches.Where(x => x.MaSach == formData.MaSach).FirstOrDefault();
-            if (item == null)
-            {
-                RedirectToAction("Index", "QLSachAdmin");
-            }
-
-            item.MaSach = formData.MaSach;
 
             _context.Saches.Remove(item);
             _context.SaveChanges();

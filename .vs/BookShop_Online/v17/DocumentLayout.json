@@ -3,7 +3,47 @@
   "WorkspaceRootPath": "D:\\WEB_MVC_DEMO\\BookShop_Online\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\views\\qlsach\\detailbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\areas\\admin\\views\\qlsachadmin\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\views\\qlsachadmin\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\areas\\admin\\views\\qlsachadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\views\\qlsachadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\areas\\admin\\controllers\\qlsachadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\controllers\\qlsachadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\areas\\admin\\views\\qlsachadmin\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\views\\qlsachadmin\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\areas\\admin\\views\\qlsachadmin\\detailsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\views\\qlsachadmin\\detailsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\areas\\admin\\data\\sachvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\data\\sachvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\areas\\admin\\data\\sachdisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\data\\sachdisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\controllers\\qlsachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:controllers\\qlsachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\areas\\admin\\views\\qlchudeadmin\\deletechude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\views\\qlchudeadmin\\deletechude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\areas\\admin\\controllers\\qlchudeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:areas\\admin\\controllers\\qlchudeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\views\\qlsach\\detailbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:views\\qlsach\\detailbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -11,23 +51,15 @@
       "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:views\\qlsach\\getbooksbytopic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\views\\qlsach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:views\\qlsach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\controllers\\qlsachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:controllers\\qlsachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\views\\qlnhaxuatban\\partalnhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:views\\qlnhaxuatban\\partalnhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\viewmodel\\sachviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\viewmodel\\sachviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:viewmodel\\sachviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|d:\\web_mvc_demo\\bookshop_online\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|D:\\WEB_MVC_DEMO\\BookShop_Online\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B160B9-54EA-4A2B-8999-C78209DA1336}|BookShop_Online.csproj|solutionrelative:models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,10 +106,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
@@ -86,20 +114,134 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DetailBook.cshtml",
-              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLSach\\DetailBook.cshtml",
-              "RelativeDocumentMoniker": "Views\\QLSach\\DetailBook.cshtml",
-              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLSach\\DetailBook.cshtml",
-              "RelativeToolTip": "Views\\QLSach\\DetailBook.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "DocumentIndex": 5,
+              "Title": "SachVM.cs",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Data\\SachVM.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\SachVM.cs",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Data\\SachVM.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\SachVM.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:34:22.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLSachAdminController.cs",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Controllers\\QLSachAdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\QLSachAdminController.cs",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Controllers\\QLSachAdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\QLSachAdminController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAowIsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:24:42.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteBook.cshtml",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\DeleteBook.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QLSachAdmin\\DeleteBook.cshtml",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\DeleteBook.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QLSachAdmin\\DeleteBook.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T16:03:18.609Z",
+              "WhenOpened": "2024-08-05T12:44:07.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QLSachAdmin\\AddBook.cshtml",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\AddBook.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QLSachAdmin\\AddBook.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:46:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailSach.cshtml",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\DetailSach.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QLSachAdmin\\DetailSach.cshtml",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\DetailSach.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QLSachAdmin\\DetailSach.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:46:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLChuDeAdminController.cs",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\QLChuDeAdminController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwHAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:41:16.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QLSachAdmin\\Index.cshtml",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLSachAdmin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QLSachAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:21:56.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SachDisplayVM.cs",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Data\\SachDisplayVM.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Data\\SachDisplayVM.cs",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Data\\SachDisplayVM.cs",
+              "RelativeToolTip": "Areas\\Admin\\Data\\SachDisplayVM.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:59:22.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteChuDe.cshtml",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLChuDeAdmin\\DeleteChuDe.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QLChuDeAdmin\\DeleteChuDe.cshtml",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Areas\\Admin\\Views\\QLChuDeAdmin\\DeleteChuDe.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QLChuDeAdmin\\DeleteChuDe.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T13:48:39.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetailBook.cshtml",
+              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLSach\\DetailBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\QLSach\\DetailBook.cshtml",
+              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLSach\\DetailBook.cshtml",
+              "RelativeToolTip": "Views\\QLSach\\DetailBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T16:03:18.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Sach.cs",
               "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Models\\Sach.cs",
               "RelativeDocumentMoniker": "Models\\Sach.cs",
@@ -107,12 +249,11 @@
               "RelativeToolTip": "Models\\Sach.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T15:54:38.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T15:54:38.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "SachViewModel.cs",
               "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\ViewModel\\SachViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\SachViewModel.cs",
@@ -120,38 +261,23 @@
               "RelativeToolTip": "ViewModel\\SachViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T15:54:09.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T15:54:09.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "QLSachController.cs",
               "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Controllers\\QLSachController.cs",
               "RelativeDocumentMoniker": "Controllers\\QLSachController.cs",
               "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Controllers\\QLSachController.cs",
               "RelativeToolTip": "Controllers\\QLSachController.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAYwEsAAAAwAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:21:42.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T14:21:42.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLSach\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\QLSach\\Index.cshtml",
-              "ToolTip": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLSach\\Index.cshtml",
-              "RelativeToolTip": "Views\\QLSach\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T14:21:00.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "PartalNhaXuatBan.cshtml",
               "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLNhaXuatBan\\PartalNhaXuatBan.cshtml",
               "RelativeDocumentMoniker": "Views\\QLNhaXuatBan\\PartalNhaXuatBan.cshtml",
@@ -159,12 +285,11 @@
               "RelativeToolTip": "Views\\QLNhaXuatBan\\PartalNhaXuatBan.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T15:55:48.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:55:48.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "GetBooksByTopic.cshtml",
               "DocumentMoniker": "D:\\WEB_MVC_DEMO\\BookShop_Online\\Views\\QLSach\\GetBooksByTopic.cshtml",
               "RelativeDocumentMoniker": "Views\\QLSach\\GetBooksByTopic.cshtml",
@@ -172,8 +297,7 @@
               "RelativeToolTip": "Views\\QLSach\\GetBooksByTopic.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T15:45:48.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:45:48.706Z"
             }
           ]
         },
